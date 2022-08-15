@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kajal kumari
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Technology
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
